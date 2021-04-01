@@ -1,0 +1,26 @@
+.site-header{
+    background-color: #235886;;
+    color: #f9f7fa;
+    height: 100vh;
+    font-family: monospace;  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: #7c1dd3 2px 5px 5px;
+}
+.site-header-content{
+    margin: 54px;
+    
+}
+.insta-handle{
+    color: #f9f7fa
+}
+body{
+    margin: 0;
+}
